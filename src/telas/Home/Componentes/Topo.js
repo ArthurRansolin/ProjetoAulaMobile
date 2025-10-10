@@ -37,7 +37,7 @@ const estilos = StyleSheet.create({
   topo: {
     backgroundColor: "#F6F6F6",
     padding: 16,
-    width: "100vh",
+    width: "100%",
   },
   imagem: {
     width: 70,
